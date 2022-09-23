@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/525328601.svg)](https://zenodo.org/badge/latestdoi/525328601)
+
 # Vides et. al 2022
 Companion code for Vides et. al 2022. [[1]](#1)
 
